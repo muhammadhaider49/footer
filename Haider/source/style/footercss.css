@@ -1,0 +1,28 @@
+footer{
+    font-size: 25px;
+    background: rgba(148, 139, 139, 0.753);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+      width: 100%;
+}
+
+.footer-div{
+    color: rgba(46, 58, 58, 0.808);
+    font-size: 20px;
+   
+}
+
+.footer-div .underline a:hover {
+    text-decoration: underline;
+    color: rgb(87, 41, 41);
+}
+
+.footer-div > ul > li{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(51, 47, 47);
+}
